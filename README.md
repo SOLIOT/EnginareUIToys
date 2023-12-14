@@ -1,2 +1,2 @@
 # EnginareUIToys
-UI tools for objective-c mobile applications.
+UI tools for objective-c mobile applications
