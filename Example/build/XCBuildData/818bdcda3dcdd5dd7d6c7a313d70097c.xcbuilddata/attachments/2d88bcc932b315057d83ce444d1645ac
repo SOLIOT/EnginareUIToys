@@ -1,5 +1,0 @@
- extern const unsigned char EnginareUIToysVersionString[];
- extern const double EnginareUIToysVersionNumber;
-
- const unsigned char EnginareUIToysVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:EnginareUIToys  PROJECT:Pods-1" "\n";
- const double EnginareUIToysVersionNumber __attribute__ ((used)) = (double)1.;
