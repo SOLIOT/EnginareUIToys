@@ -4,4 +4,6 @@
 
 - (instancetype)customButton:(CGRect)frame backgroundColor:(UIColor *)backgroundColor;
 
+- (instancetype)neonButtonRed:(CGRect)frame;
+
 @end
