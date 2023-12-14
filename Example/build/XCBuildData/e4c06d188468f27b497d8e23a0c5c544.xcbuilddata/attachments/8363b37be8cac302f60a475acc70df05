@@ -1,0 +1,6 @@
+framework module EnginareUIToys {
+  umbrella header "EnginareUIToys-umbrella.h"
+
+  export *
+  module * { export * }
+}

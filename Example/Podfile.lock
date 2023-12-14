@@ -1,0 +1,16 @@
+PODS:
+  - EnginareUIToys (0.1.0)
+
+DEPENDENCIES:
+  - EnginareUIToys (from `../`)
+
+EXTERNAL SOURCES:
+  EnginareUIToys:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EnginareUIToys: 3a51f0172829be2da3d490634fad3d04ff88e91d
+
+PODFILE CHECKSUM: 3da604d0fbe9f01f58a379b7c47046372d197174
+
+COCOAPODS: 1.13.0

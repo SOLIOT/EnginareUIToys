@@ -1,0 +1,50 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9822f8e7f134027870775228ec657f9cc0"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98d7d6787c7025e3a7ddac9c2c750ee5c7"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e982e745ceca7653a7cbcc9a3d7f8441d20"
+    }
+  ],
+  "containerPath" : "/Volumes/Samsung_870_EVO/Developer/EnginareUIToys/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/sina/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sina/Library/Developer/Xcode/DerivedData/Pods-fybzvkscrrwyglblrcirpuffqknl/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sina/Library/Developer/Xcode/DerivedData/Pods-fybzvkscrrwyglblrcirpuffqknl/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

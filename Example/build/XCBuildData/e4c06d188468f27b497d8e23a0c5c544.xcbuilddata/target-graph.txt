@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'Pods-EnginareUIToys_Tests' in project 'Pods'
+➜ Explicit dependency on target 'Pods-EnginareUIToys_Example' in project 'Pods'
+Target 'Pods-EnginareUIToys_Example' in project 'Pods'
+➜ Explicit dependency on target 'EnginareUIToys' in project 'Pods'
+Target 'EnginareUIToys' in project 'Pods' (no dependencies)
